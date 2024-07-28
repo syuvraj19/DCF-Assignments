@@ -1,26 +1,21 @@
-# DCF255 - Data Communication Fundamentals.
-<br>
+# 🌐 DCF255 - Data Communications Fundamentals
 
-**PLEASE DO NOT COPY FROM ANY OF THE FILES IN THIS REPOSITORY**
+Welcome to the repository for DCF255 - Data Communications Fundamentals, a course I completed at Seneca College during Winter 2022. Dive in to explore the exciting world of data communications, network protocols, and internet applications!
 
-<br>
+## 🚀 Course Overview
+This course provides a comprehensive foundation in data communications, using well-known Internet applications and standard networking technology as examples. It prepares students to design and create effective software in our connected world.
 
-------------------------
+## 🎯 Learning Outcomes
+By the end of this course, I was able to:
+1. **Master Data Communications Terminology**: Explain the jargon of data communications and networks.
+2. **Identify Network Components**: Recognize network characteristics and their hardware/software to tackle implementation and configuration tasks.
+3. **Apply Standards**: Use published standards to develop solutions and work plans.
+4. **Understand Internet & TCP/IP**: Explain the structure and functionality of the Internet and TCP/IP protocol to enhance programming skills.
+5. **Utilize Internet Applications**: Demonstrate the use of widely-used Internet applications for common tasks.
+6. **Network Programming**: Develop simple programs communicating over a network.
+7. **Analyze Security & Deployment**: Investigate security, deployment, and reliability issues to understand or implement systems.
 
-# Outline
-- Understand the terminology of data communications and networks to improve comprehension and the ability to explain to others.
-- Identify network characteristics, and their hardware and software, to enable implementation and configuration tasks.
-- Use published standards to compose a solution or work plan.
-- Explain the structure and functionality of the internet and the TCP/IP protocol to improve your computer use and programming skills.
-- Demonstrate knowledge and use of widely-used applications on the internet to complete common tasks.
-- Create simple programs that communicate over a network.
-- Examine a security, deployment, and reliability problems to understand an existing system, or to implement a new system.
-
-Source: [Seneca College Website](https://www.senecacollege.ca/cgi-bin/subject?s1=DCF255)
-
-------------------------
-
-> Course taken during Winter 2022
-
-------------------------
-
+## 🗂 Repository Structure
+Explore the different sections of the repository:
+- **Assignments**: All assignments and project files [📂]
+- **Labs**: Lab exercises and related files [🔬]
